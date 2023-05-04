@@ -24,7 +24,7 @@ const senderMail = (req: any, res: any) => {
     }
   );
   res.json({
-    message: "success ful",
+    message: "success full",
   });
 };
 
